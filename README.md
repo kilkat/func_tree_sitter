@@ -277,12 +277,6 @@ func_tree_sitter/
 3. `parsers/__init__.py`의 `PARSER_CLASSES`에 추가
 4. `config.py`의 `LANGUAGE_CONFIG`에 언어 설정 추가
 
-### 테스트 실행
-
-```bash
-pytest tests/
-```
-
 ### 코드 포맷팅
 
 ```bash
